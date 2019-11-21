@@ -2,7 +2,7 @@
 http://www.cs.toronto.edu/~frank/csc401/
 
 Assignment 1: Identifying political persuasion on Reddit  
-http://www.cs.toronto.edu/~frank/csc401/assignments/A1/CSC401_A1.pdf
+http://www.cs.toronto.edu/~frank/csc401/assignments/A1/CSC401_A1.pdf  
 Total Mark:67.4 / 75.0  
   
 Assignment 2: Statistical machine translation  
